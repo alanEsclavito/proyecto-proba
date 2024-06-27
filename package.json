@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alanesclavito.github.io/proyecto-proba/",
+  "homepage": "https://alanesclavito.github.io/proyecto-proba",
   "name": "react-javascript",
   "version": "1.0.0",
   "type": "module",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview"
   },
