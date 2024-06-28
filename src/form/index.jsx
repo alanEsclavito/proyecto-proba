@@ -681,7 +681,6 @@ function Index() {
     ];
 
     const calculateRisk = async () => {
-        //console.log(formValues);
         let points = 0;
         for (const key in formValues) {
             if (["height", "weight", "age", "major"].includes(key)) continue;

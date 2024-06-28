@@ -56,10 +56,12 @@ const Index = () => {
                 </aside>
                 <nav>
                     <h6 className="footer-title">Integrantes</h6>
-                    <p>Alan Muñoz</p>
-                    <p>Aaron Ortega</p>
-                    <p>ATL</p>
-                    <p>Advertisement</p>
+                    <p>Ortega Santiago Aaron Uriel</p>
+                    <p>Cardoso Osorio Atl Yosafat</p>
+                    <p>Hernandez Vazquez Jorge Daniel</p>
+                    <p>López Reyes José Roberto</p>
+                    <p>Flores Morales Aldahir Andrés</p>
+                    <p>Muñoz Tapia Alan Arath</p>
                 </nav>
                 <nav>
                     <h6 className="footer-title">Enlaces de interés</h6>
@@ -101,10 +103,8 @@ const Index = () => {
                     </a>
                 </nav>
                 <nav>
-                    <h6 className="footer-title">Legal</h6>
-                    <a className="link link-hover">Terms of use</a>
-                    <a className="link link-hover">Privacy policy</a>
-                    <a className="link link-hover">Cookie policy</a>
+                    <h6 className="footer-title">Enlaces adicionales</h6>
+                    <a href="https://docs.google.com/document/d/1ucoqWPRCKQer6ZfS-et6xHw-N-JelSG9CwPSllaaTmc/edit" className="link link-hover">Investigación</a>
                 </nav>
             </footer>
         </div>
